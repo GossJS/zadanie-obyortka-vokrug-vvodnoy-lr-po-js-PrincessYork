@@ -10,3 +10,5 @@ an intro assignment on JS 05.09.2017 / 07.09.2017
 Но в файле README.MD репозитория-ответа на это задание напишите фразу «Выполнено» и дату выполнения.
 
 Курс в  Moodle: https://moodle.herzen.spb.ru/course/view.php?id=1026
+
+Выполнено 08/09/2017
